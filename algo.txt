@@ -1,8 +1,11 @@
-1st) Google local pizza places
-2nd) Select local pizza place
-3rd) Search for coupons within pizza place
-4th) Choose pizza
-5th) Apply coupons
-6th) Check out of pizza place
-7th) Add tip
-8th) Receive pizza
+1   Google local pizza places
+2   Select local pizza place
+3   Search for coupons within pizza place
+4   Choose pizza
+5   Apply coupons
+6   Check out of pizza place
+7   Add tip
+8)  Receive pizza
+9)  Write Review
+10) Sign up as loyalty member
+11) Receive emails
